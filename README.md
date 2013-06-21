@@ -28,4 +28,4 @@ View.after(function() {
 });
 ```
 
-In a template like `<div view-bind="name">{{name}}</div>`, the view will have a property `name` bound to its object
+In a template like `<div view-bind="name">{{name}}</div>`, the view will have a property `name` bound to this node
